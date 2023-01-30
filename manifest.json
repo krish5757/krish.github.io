@@ -1,11 +1,11 @@
 {
-    "name": "dev_portfolio",
-    "short_name": "dev_portfolio",
+    "name": "Krishna Shukla",
+    "short_name": "Krishna Shukla",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "This is portfolio website with some of my projects and contact details.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
